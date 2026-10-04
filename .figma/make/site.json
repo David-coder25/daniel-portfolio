@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your creative video editing and thumbnail design skills with a premium, interactive portfolio that captivates clients and highlights your expertise.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
